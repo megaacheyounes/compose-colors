@@ -1,0 +1,13 @@
+{
+  "name": "compose-colors",
+  "version": "1.0.0",
+  "description": "simple js script to convert gradients in json format to kotlin variables",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/megaacheyounes/compose-colors.git",
+  "author": "Younes Megaache <megaache.younes@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
