@@ -327,7 +327,7 @@ val NightCall = arrayOf(0.00f to Color(0xFFAC32E4),0.48f to Color(0xFF7918F2),1.
 
 val SupremeSky = arrayOf(0.00f to Color(0xFFD4FFEC),0.48f to Color(0xFF57F2CC),1.00f to Color(0xFF4596FB))
 
-val LightBlue = arrayOf(0.00f to Color(0xFF9EFBD3),0.48f to Color(0xFF57E9F2),1.00f to Color(0xFF45D4FB))
+val LightBlueSky = arrayOf(0.00f to Color(0xFF9EFBD3),0.48f to Color(0xFF57E9F2),1.00f to Color(0xFF45D4FB))
 
 val MindCrawl = arrayOf(0.00f to Color(0xFF473B7B),0.51f to Color(0xFF3584A7),1.00f to Color(0xFF30D2BE))
 
